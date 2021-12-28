@@ -138,6 +138,6 @@ void optionsMenu() {
 int main() {
 	// programs starts here
 	printf("FCFS Scheduling\n");
-	optionsMenu(); // call method to display menu and get input from user      
+	optionsMenu();    
 	return 0;  
 } 
