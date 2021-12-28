@@ -25,14 +25,14 @@ void FCFS (int n_process, int b_time[])
 
     // calculate waiting time
     for(i = 1; i < n_process; i++) {
-            wait_time[i] = b_time[i-1] + wait_time[i-1];
-            total_wt += wait_time[i]; // get total waiting time
+		wait_time[i] = b_time[i-1] + wait_time[i-1];
+		total_wt += wait_time[i]; // get total waiting time
     }
 
     // calculate turnaround time
     for(i = 0; i < n_process; i++) {
-            turnaround_time[i] = b_time[i] + wait_time[i];
-            total_tat += turnaround_time[i];  // get total turnaround time
+		turnaround_time[i] = b_time[i] + wait_time[i];
+		total_tat += turnaround_time[i];  // get total turnaround time
     } 
 
     // create columns to display result
@@ -41,7 +41,7 @@ void FCFS (int n_process, int b_time[])
 
     // display output
     for(i = 0; i < n_process; i++) {
-            printf("\t %d\t %d\t %d\t %d\n", i+1, b_time[i], turnaround_time[i], wait_time[i]);
+		printf("\t %d\t %d\t %d\t %d\n", i+1, b_time[i], turnaround_time[i], wait_time[i]);
     }
 
     // display output for average times
