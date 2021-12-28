@@ -93,12 +93,10 @@ void optionA()
 	}
 
     fscanf(file_path, "%d", &process_id); // read first line to get number of processes
-    //printf("%d\n", process_id); // for debugging
 	
     // go through second line and store values separated by comma into array
 	for (i = 0; i < process_id; i++) {
 		fscanf(file_path, "%d,", &burst_time[i]);
-		//printf("%d\n", burst_time[i]); // for debugging
     } 
     
 	fclose(file_path); // closing file
