@@ -3,7 +3,7 @@
 **Course Professor**: [Dr. Bhanukiran Gurijala](https://engineering.wvutech.edu/faculty-and-staff/bhanukiran-gurijala) <br />
 **University**: [West Virginia University Institute of Technology](https://www.wvutech.edu/) <br />
 **Language**: C programming language <br />
-**Course taken**: Fall 2021\
+**Course taken**: Fall 2021 <br />
 
 
 Lab 1 - FCFS <br />
