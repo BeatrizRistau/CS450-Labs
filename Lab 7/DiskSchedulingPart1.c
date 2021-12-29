@@ -73,7 +73,6 @@ int SCAN()
 				}
 			}
 		}
-		
 		// If we reach the last, we move to end and switch directions
 		if(curr_head == max && right) { 
 			seek_distance += abs(curr_head - (n_cylinders-1));
@@ -82,7 +81,6 @@ int SCAN()
 			right = 0; // false
 			continue;
 		}
-
 		seek_distance += abs(available_cylinders[idx] - curr_head);
 		printf("-> %d ", available_cylinders[idx]);
 		curr_head = available_cylinders[idx];
@@ -113,7 +111,6 @@ int SSTF()
 	// SSTF calculation
 	// find all the distances
 	for(i = 0; i < SIZE; i++) { 
-
 		// declare variables
 		int curr_shortest = 10000;
 		int idx = 0; // the next position for the scheduler
