@@ -11,4 +11,4 @@ Lab 7 - Disk Scheduling (Part 1) <br />
 Lab 8 - Disk Scheduling (Part 2) <br />
 
 # Using My Code
-This code must not be used by any student taking this course at WVU Tech. If you found this repository, this should only be used as a guide for your future labs. If you decide to use part of my code as inspiration for your own project/labs, please make sure that you cite by copying the link from this repository and attaching to your code. Failing to do so, you may face academic dishonesty which may lead in failure of the course.
+These codes must not be used by any student taking this course at WVU Tech. If you found this repository, this should only be used as a guide for your future labs. If you decide to use part of my code as inspiration for your own project/labs, please make sure that you cite by copying the link from this repository and attaching to your code. Failing to do so, you may face academic dishonesty which may lead in failure of the course.
