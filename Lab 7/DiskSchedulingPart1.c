@@ -99,7 +99,6 @@ int SSTF()
 	// declare variables
 	int curr_head = head_position;
 	seek_distance = 0; // reset
-	
 	int available_cylinders[SIZE];
 	
 	// create a copy of array and store in a new variable
@@ -148,7 +147,6 @@ int SSTF()
 int FCFS()
 {
 	seek_distance = 0; // reset
-	
 	seek_distance = abs(cylinders[0] - head_position);
 	
 	printf("\nFCFS: Order of Requests");
