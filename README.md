@@ -1,5 +1,8 @@
 # CS450-Labs
-Operating System Structures (CS 450) Course at WVU Tech. All labs created in C language.
+**Course**: CS 450 (Operating Systems Structures)
+**Course Professor**: [Dr. Bhanukiran Gurijala](https://engineering.wvutech.edu/faculty-and-staff/bhanukiran-gurijala)
+**University**: [West Virginia University Institute of Technology](https://www.wvutech.edu/)
+**Language**: C programming language
 
 Lab 1 - FCFS <br />
 Lab 2 - SRT <br />
@@ -10,5 +13,5 @@ Lab 6 - Banker's Algorithm (Part 2) <br />
 Lab 7 - Disk Scheduling (Part 1) <br />
 Lab 8 - Disk Scheduling (Part 2) <br />
 
-# Using My Code
+## Using My Code
 These codes must not be used by any student taking this course at WVU Tech. If you found this repository, this should only be used as a guide for your future labs. If you decide to use part of my code as inspiration for your own project/labs, please make sure that you cite by copying the link from this repository and attaching to your code. Failing to do so, you may face academic dishonesty which may lead in failure of the course.
