@@ -1,8 +1,8 @@
 # CS450-Labs
-**Course**: CS 450 (Operating Systems Structures)
-**Course Professor**: [Dr. Bhanukiran Gurijala](https://engineering.wvutech.edu/faculty-and-staff/bhanukiran-gurijala)
-**University**: [West Virginia University Institute of Technology](https://www.wvutech.edu/)
-**Language**: C programming language
+**Course**: CS 450 (Operating Systems Structures) <br />
+**Course Professor**: [Dr. Bhanukiran Gurijala](https://engineering.wvutech.edu/faculty-and-staff/bhanukiran-gurijala) <br />
+**University**: [West Virginia University Institute of Technology](https://www.wvutech.edu/) <br />
+**Language**: C programming language <br />
 
 Lab 1 - FCFS <br />
 Lab 2 - SRT <br />
